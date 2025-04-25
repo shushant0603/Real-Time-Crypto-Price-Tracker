@@ -6,7 +6,7 @@ const PriceChart = ({ priceHistory = [], isPositive }) => {
   useEffect(() => {
     if (priceHistory.length < 2) return;
 
-    // Normalize the data to fit in our SVG
+
     const minPrice = Math.min(...priceHistory);
     const maxPrice = Math.max(...priceHistory);
     const priceRange = maxPrice - minPrice || 1;
