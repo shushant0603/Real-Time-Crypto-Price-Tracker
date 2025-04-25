@@ -11,3 +11,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ->tailwind css
 ->reduxjs/toolkit
 
+video_link=https://drive.google.com/file/d/1wNxbKj6-0XNllXMD8krrXvxfVwZzFXbS/view?usp=drive_link
